@@ -1,0 +1,25 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 5px;
+}
+.pa{
+    font-weight: 500;
+    font-size: large;
+}
+.photo{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+img{
+    width: 450px;
+    height: 250px;
+    border-radius: 25px;
+}
+.photo>p{
+    font-size: larger;
+    margin-left: 30px;
+}
